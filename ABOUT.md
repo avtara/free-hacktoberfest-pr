@@ -674,3 +674,16 @@
 **Interests**: Music, sleep
 
 **Location**: India, New Delhi
+
+#### --- 52 ---
+**Name**: [Muhammad Avtara Khrisna](https://github.com/avtara)
+
+**Programming Language**: C, Java, JavaScript
+
+**Contributed to OSS**: yes
+
+**How long have you been programming**: 1 years
+
+**Interests**: Travel, Swimming, Coding
+
+**Location**: Indonesia, Bandung
